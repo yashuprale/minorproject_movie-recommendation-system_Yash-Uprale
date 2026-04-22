@@ -1,1 +1,2 @@
-# minorproject_movie-recommendation-system_Yash-Uprale
+# Movie-recommender-system
+A content based movie recommender system using cosine similarity
